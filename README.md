@@ -13,18 +13,13 @@ Working EFI for installing **macOS Sequoia** on an **HP Victus laptop** with Int
 - **Wi-Fi/Bluetooth:** [fill in]
 - **Audio:** [fill in — codec]
 - **Storage:** [fill in — NVMe model]
-
-## Versions
-- **macOS:** Sequoia (15.x)
-- **OpenCore:** [your version]
-- **SMBIOS:** [your SMBIOS]
-
+- 
 ## What Works
 - Boot and installation
 - Graphics acceleration via **Intel UHD** (WhateverGreen)
 - Ethernet (if compatible kext is included)
 - USB
-- Trackpad/Keyboard
+- Keyboard
 
 ## Known Issues
 - **Audio does not work** (layout-id / AppleALC still being tuned).
